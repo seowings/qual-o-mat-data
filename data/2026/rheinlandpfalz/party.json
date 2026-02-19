@@ -1,0 +1,14 @@
+[
+  {"id":0, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
+  {"id":1, "name":"CDU", "longname":"Christlich Demokratische Union Deutschlands"},
+  {"id":2, "name":"GRÜNE", "longname":"BÜNDNIS 90/DIE GRÜNEN"},
+  {"id":3, "name":"AfD", "longname":"Alternative für Deutschland"},
+  {"id":4, "name":"FDP", "longname":"Freie Demokratische Partei"},
+  {"id":5, "name":"FREIE WÄHLER", "longname":"FREIE WÄHLER Rheinland-Pfalz"},
+  {"id":6, "name":"Die Linke", "longname":"Die Linke"},
+  {"id":7, "name":"Tierschutzpartei", "longname":"PARTEI MENSCH UMWELT TIERSCHUTZ"},
+  {"id":8, "name":"VOLT", "longname":"VOLT Deutschland"},
+  {"id":9, "name":"ÖDP", "longname":"Ökologisch-Demokratische Partei"},
+  {"id":10, "name":"BSW", "longname":"Bündnis Sahra Wagenknecht – Vernunft und Gerechtigkeit"},
+  {"id":11, "name":"PdH", "longname":"Partei der Humanisten"}
+]
